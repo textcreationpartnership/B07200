@@ -1,0 +1,999 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Good Christian looke to thy creede : for a true triall of an holy profession, and of the truth of religion, from all crooked by-paths. / By Richard Bernard rector of Batcombe in Sumersetshire..</title>
+            <author>Bernard, Richard, 1568-1641.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1630</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 46 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B07200</idno>
+            <idno type="OCLC"> 180866419</idno>
+            <idno type="STC">STC 1941.5</idno>
+            <idno type="STC">ESTC S90465</idno>
+            <idno type="EEBO-CITATION">180866419</idno>
+            <idno type="OCLC">ocn 180866419</idno>
+            <idno type="VID">191583</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B07200)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191583)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2274:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Good Christian looke to thy creede : for a true triall of an holy profession, and of the truth of religion, from all crooked by-paths. / By Richard Bernard rector of Batcombe in Sumersetshire..</title>
+                  <author>Bernard, Richard, 1568-1641.</author>
+               </titleStmt>
+               <extent>[2], 34 p.   </extent>
+               <publicationStmt>
+                  <publisher>Imprinted by Felix Kyngston, and are to be sold by Edward Blackmore, at the Angell in Pauls Church-yard.,</publisher>
+                  <pubPlace>At London, :</pubPlace>
+                  <date>1630..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title vignette; head-piece, initial.</note>
+                  <note>Signatures: A-B⁸ C³ (first and last leaves blank?).</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Catechisms --  Early works to 1800.</term>
+               <term>Catechisms, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:191583:1" rendition="simple:additions"/>
+            <p>GOOD CHRISTIAN LOOKE TO THY CREEDE: FOR <hi>A TRVE TRIALL</hi> OF AN HOLY PRO<g ref="char:EOLhyphen"/>FESSION, AND OF THE truth of Religion, from all crooked by-paths. BY RICHARD BERNARD RECTOR of Batcombe in Sumer<g ref="char:EOLhyphen"/>ſetſhire.</p>
+            <p>
+               <hi>AT LONDON,</hi> Imprinted by <hi>Felix Kyngſton,</hi> and are to be ſold by <hi>Edward Blackmore,</hi> at the Angell in Pauls Church-yard. 1630.</p>
+            <pb facs="tcp:191583:2"/>
+            <pb facs="tcp:191583:2" rendition="simple:additions"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:191583:3" rendition="simple:additions"/>
+         </div>
+      </front>
+      <body>
+         <div type="catechism">
+            <pb n="1" facs="tcp:191583:3"/>
+            <head>QVESTIONS AND ANSWERES OVT OF THE CREED, AND OTHER GROVNDS of Religion, for the Aſſurance <hi>of a Christian mans</hi> Saluation.</head>
+            <sp>
+               <speaker>Queſtion.</speaker>
+               <p>
+                  <seg rend="decorInit">W</seg>Hat are you by your Profeſſion in Religion?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>A Chriſtian.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>Where is ſet downe the ſumme of your Chriſtianitie?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>In the Creed.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>What doth it teach you?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>To beleeue in one God, the Father, the Son, and the holy Ghoſt, and that this God hath
+<pb n="2" facs="tcp:191583:4"/> a Church holy and Catholicke for the Sal<g ref="char:EOLhyphen"/>uation whereof, the Sonne of God became man, and hath purchaſed for it an eternall Inheritance in the higheſt heauens.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>What is then your aſſured hope of body and ſoule, if you hold on in this faith to the end?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Life Euerlaſting.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>Doth not Death cut off the hope of en<g ref="char:EOLhyphen"/>ioying thereof?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>No, for I beleeue the reſurrection of the body at the laſt Day.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>To be ſure hereof, what is it which you muſt beleeue and labour for before you die?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>The forgiueneſſe of ſinnes: for if I bee not pardoned, I can neuer be ſaued.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>What manner of perſon then muſt you be, to be certaine of the pardon of your ſinnes?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>A Saint: for Saints onely inherit heauen.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>With whom then muſt you ſeeke to haue fellowſhip and familiaritie heere in this life?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>With Saints.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>What is this your fellowſhip with them called?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>The Communion of Saints.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="3" facs="tcp:191583:4"/>
+               <speaker>Q.</speaker>
+               <p>Being in this Communion, of what bo<g ref="char:EOLhyphen"/>dy are you a member?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Of the Catholike Church: out of which is no Saluation.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>What doth gouerne and guide both it and you?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>The holy Ghoſt: who is in all and euery member thereof.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>If you be ſure of the forgiueneſſe of ſins, that you are a Saint in the Communion of Saints, a member of the holy Catho<g ref="char:EOLhyphen"/>like Church, and ruled by the holy Ghoſt, what is it that now you deſire and dayly looke for?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>The comming of Ieſus Christ from Hea<g ref="char:EOLhyphen"/>uen, to iudge both the quicke and the dead.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>What is Hee, that you can ſo loue and long after his appearance?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>He is the onely Sonne of the Father, our Lord, God and man our Sauiour.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>How came he to be man?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>He was conceiued by the holy Ghoſt.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>Of whom was hee borne?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Of the Virgin Mary.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>What hath he done for you?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>He hath perfectly fulfilled the Law, being being obedient to his Father in all things, Hee ſuffered vnder Pontius Pylate, was
+<pb n="4" facs="tcp:191583:5"/> crucified, dead and buried, hee deſcended into hell: and the third day hee roſe againe from the dead.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>What then became of him after his a<g ref="char:EOLhyphen"/>bode here a while?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>He aſcended into Heauen.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>What doth he there now?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Hee ſitteth at the right hand of God the Father Almighty making Interceſſion for vs.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>But may you apply particularly and be<g ref="char:EOLhyphen"/>leeue, that he hath done all theſe things for you, as well as for any other?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Yes verily I may ſay, that he was conceiued <note place="margin">
+                     <hi>Gal.</hi> 2. 20.</note> and borne for me, ſuffered and crucified for me, dead and buried for me, that hee deſcended into hell for me, that hee roſe a<g ref="char:EOLhyphen"/>gaine, and aſcended vp into Heauen for me, making requeſt to the Father euen as well for me, as for any other true beleeuer.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>How are you able thus to apply him?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>By the power of Faith and the operation of the holy Ghoſt.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>But may not others ſay thus much out of a preſumptuous imagination?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Tes, no doubt through the Spirit of error ſeducing them.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>Then how doe you know, that this par<g ref="char:EOLhyphen"/>ticular
+<pb n="5" facs="tcp:191583:5"/> applying of Chriſt, and his bene<g ref="char:EOLhyphen"/>fits to you? ariſeth not of ſuch a preſump<g ref="char:EOLhyphen"/>tuous conceit?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>By my confermitie to him in ſome ſort as hee is ſet out to vs in ſuch Articles of the Creed as doe concerne him.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>Relate if you can the particulars, the better to diſcouer the ſure grounds of this your confidence.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>I.</hi> As I beleeue Ieſus Chriſt to be the be<g ref="char:EOLhyphen"/>gotten of the Father, and to bee his Sonne:</p>
+               <p>So muſt I be begotten of God. <hi>Iam.</hi> 1. 18. 1. <hi>Cor.</hi> 4. 15. <hi>Philem.</hi> verſe 10. and bee Gods Childe by adoption. <hi>Iohn</hi> 1. 12. <hi>Gal.</hi> 4. 5.</p>
+               <p n="2">
+                  <hi>II.</hi> As hee was conceiued, and ſanctified by the holy Ghoſt.</p>
+               <p>So muſt I be ſanctified by the ſame Spirit. <hi>Rom.</hi> 15. 16. <hi>Act.</hi> 26. 18.</p>
+               <p n="3">
+                  <hi>III.</hi> As hee was borne.</p>
+               <p>So must I be borne anew. <hi>Ioh.</hi> 1. 13. <hi>&amp;</hi> 3. 3. 5. 1. <hi>Pet.</hi> 1. 25.</p>
+               <p n="4">
+                  <hi>IV.</hi> As hee obeyed his Father, and did al<g ref="char:EOLhyphen"/>waies <note place="margin">
+                     <hi>Iohn</hi> 8. 19.</note> thoſe things that pleaſed him.</p>
+               <p>So must I obey and endeauour to pleaſe him in all things. <hi>Coll.</hi> 1. 10. 1. <hi>Theſſ.</hi> 4. 1. <hi>Heb.</hi> 12. 28. 2. <hi>Cor.</hi> 5. 9.</p>
+               <p n="5">
+                  <hi>V.</hi> As hee ſuffered.</p>
+               <pb n="6" facs="tcp:191583:6"/>
+               <p>So must I ſuffer with him, <hi>Rom.</hi> 8. 17. 2. <hi>Tim.</hi> 2. 12. 1. <hi>Pet.</hi> 2. 21. and for him, for ſo we are hereunto called, 1. <hi>Pet.</hi> 2. 21. <hi>Act.</hi> 14. 22. 2. <hi>Tim.</hi> 3. 12.</p>
+               <p n="6">
+                  <hi>VI.</hi> As he was crucified.</p>
+               <p>So must I be crucified with him, <hi>Gal.</hi> 2. 20. euen the old man, <hi>Rom.</hi> 6. 6. and alſo the fleſh, with the affections and luſts thereof, <hi>Gal.</hi> 5. 24.</p>
+               <p n="7">
+                  <hi>VII.</hi> As hee was dead.</p>
+               <p>So must I be <hi>dead</hi> with him <hi>vnto ſin, Rom.</hi> 
+                  <note place="margin">
+                     <hi>Rom.</hi> 6. 14.</note> 6. 2. 8. and <hi>dead</hi> vnto the <hi>Law, Gal.</hi> 2. 19.</p>
+               <p n="8">
+                  <hi>VIII.</hi> As he was buried.</p>
+               <p>So must I be buried with him by Baptiſme, <hi>Rom.</hi> 6. 4. <hi>Coll.</hi> 2. 12.</p>
+               <p n="9">
+                  <hi>IX.</hi> As he deſcended into Hell.</p>
+               <p>So must I bee humble in mine owne eyes, and deſcend downe in my thoughts of my ſelfe, as iustly deſeruing Hell; If I were rewar<g ref="char:EOLhyphen"/>ded according to my owne deſerts.</p>
+               <p n="10">
+                  <hi>X.</hi> As he roſe againe.</p>
+               <p>So must I be quickned. <hi>Eph.</hi> 2. 5. and riſe with him through the faith of the opera<g ref="char:EOLhyphen"/>tion of God, <hi>Coll.</hi> 2. 12. and being aliue with God, <hi>Rom.</hi> 6. 11. I must liue vnto righteouſneſſe, 1. <hi>Pet.</hi> 2. 24. and walke in newneſſe of life. <hi>Rom.</hi> 6. 4.</p>
+               <pb n="7" facs="tcp:191583:6"/>
+               <p n="11"> 
+                  <hi>XI.</hi> As he aſcended into Heauen.</p>
+               <p>So must I aſcend in my affection after him, ſtriuing to be diſſolued and to be with him, <hi>Phil.</hi> 1. 23. ſetting in the meane ſeaſon my minde on things aboue, <hi>Coll.</hi> 3. 1. Hauing my conuerſation in Heauen, <hi>Phil.</hi> 3. 20.</p>
+               <p n="12">
+                  <hi>XII.</hi> As he ſitteth on the right hand of God in Heauen.</p>
+               <p>So must I with others ſit together in heaunly places in Christ Ieſus, <hi>Eph.</hi> 2. 6. vpon theſe grounds doe I aſſure my ſelfe to haue a right in my bleſſed Sauiour, to apply him particular to my ſelfe for my endleſſe com<g ref="char:EOLhyphen"/>fort.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>And indeed ſo well thus you may doe, but now hauing certainely this right in Ieſus Chriſt his onely Sonne our Lord, what doth this faith worke in you to<g ref="char:EOLhyphen"/>wards God his Father?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>To beleeue in him, and that hee is become my Father alſo, and that hee will doe for me aboue all that I can aske or thinke,</hi> Ioh. 16. 23. and 15. 17. and 14. 13. <hi>for his ſake.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>But what think you of his diuine power?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>That hee is exceedingly able aboundantly <hi>Ephe.</hi> 3. 20. to doe for me aboue all that I can thinke, becauſe he is Almighty.</p>
+            </sp>
+            <sp>
+               <pb n="8" facs="tcp:191583:7"/>
+               <speaker>Q.</speaker>
+               <p>Wherein doth this appeare?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Becauſe he made Heauen and Earth.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>What doe you conclude now out of all theſe things?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>That I am ſafe vnder his al-ſufficiency for the good of body and ſoule, by whoſe power, through faith I am kept vnto ſaluation, and ſo to enioy life euerlasting. 1. <hi>Pet.</hi> 1. 5.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>May you then liue ſecurely, as it were careleſly vpon this confidence.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>God forbid; for I am commanded to worke out my Saluation with feare and trembling, <hi>Phil.</hi> 2. 12. And in my Creed I am taught to beleeue, that there is as well a Hell for the wicked, as a Heauen for the Godly.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>Now beſides this your <hi>Creed,</hi> are there any other helps, to awe a man to God<g ref="char:EOLhyphen"/>ward, and to keepe him from carnall ſe<g ref="char:EOLhyphen"/>curitie?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Yes indeed, very eaſie to be conceiued, and to be gathered out of the other parts of the Common Catechiſme with ſetled medita<g ref="char:EOLhyphen"/>tions thereupon.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>As how I pray you, vpon the Comman<g ref="char:EOLhyphen"/>dements?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>I.</hi> To thinke ſeriouſly whoſe they be, euen
+<pb n="9" facs="tcp:191583:7"/> the precepts of the God of Heauen and earth, terrible in wrath and without reſpect of perſon in executing vengeance againſt tranſgreſſors.</p>
+               <p n="2">
+                  <hi>II.</hi> That they are the rule of righteouſneſſe, to euery Christian concerning his dutie to God, to man, and to himſelfe.</p>
+               <p n="3">
+                  <hi>III.</hi> That a curſe is vpon euery one, hat either wilfully or careleſly leadeth a life without conſcionable reſpect vnto theſe Commandements.</p>
+               <p n="4">
+                  <hi>IV.</hi> That by our Church we are taught, and with our mouthes wee pray, that the Lord would haue mercy vpon vs, to encline our hearts to keepe euery Law, and we beſeech him to write all theſe his Lawes in our hearts.</p>
+               <p n="5">
+                  <hi>V.</hi> That in thus praying in words, and yet without affection of heart, or conſcience of obedience we mocke God, and prouoke him the more to wrath, by ſo dallying with ſuch a dreadfull Maieſtie.</p>
+               <p n="6">
+                  <hi>VI.</hi> That this Law was giuen in great ter<g ref="char:EOLhyphen"/>rour, making all Iſraell to feare and trem<g ref="char:EOLhyphen"/>ble at the deliuery thereof: Oh then thinke what wilbe that horror in mens hearts, when God comes to execute his Iuſtice, pow<g ref="char:EOLhyphen"/>ring vyals of wrath vpon the rebellious.</p>
+               <pb n="10" facs="tcp:191583:8"/>
+               <p n="7"> 
+                  <hi>VII.</hi> That God hath for our incouragement exhorted vs to obey them, left memorable examples of men liuing in obedience, bleſ<g ref="char:EOLhyphen"/>ing and rewarding them for well doing, with promiſes of his mercies to all others that ſo doe, and to reward them with euer<g ref="char:EOLhyphen"/>laſting glory in the end.</p>
+               <p n="8">
+                  <hi>VIII.</hi> And laſtly, that God on the con<g ref="char:EOLhyphen"/>trary hath dehorted vs from tranſgreſſi<g ref="char:EOLhyphen"/>ons, left fearefull examples of his wrath vpon Offendors, threatning ſtill to take vengeance vpon exery ſuch wicked one, and in the end to caſt them all into Hell, there to be tormented in flaming fire with the Deuill and his Angells for euer.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>Theſe eight Meditations may ſhake the ſtouteſt heart and humble the higheſt thoughts of ſuch as make no conſcience of ſinne, and goe on in their courſes. But how may a man from the <hi>Lords prayer,</hi> rouze vp his heart from carnall ſecuri<g ref="char:EOLhyphen"/>tie.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>If rightly vnderstanding what he asketh, and hath alſo a true deſire to obtaine what hee craueth of God, if I ſay, hee ſhall de<g ref="char:EOLhyphen"/>mand questions of himſelfe before hee pray, thus meditating.</p>
+               <p n="1">
+                  <hi>I.</hi> How can I (except I reſolue to mocke
+<pb n="11" facs="tcp:191583:8"/> God) ſay hallowed be thy Name, by me in an holy conuerſation, and yet liue in all prophaneneſſe, lewdly diſhonouring his Name, abuſing his mercy and benefits, not regarding his Iustice, and liuing without all reſpect of his Glory and praiſe?</p>
+               <p n="2">
+                  <hi>II.</hi> How can I ſay thy Kingdome come, and deſire that God may erect vp here a King<g ref="char:EOLhyphen"/>dome of grace in our hearts, by his Spirit, Word, and the Miniſtery of faithfull Teachers, to prepare vs to Glory, and yet reſiſt the motions of the Spirit, refuſe to be ruled by him, hate Gods Miniſters, mocke at the preaching of the Word, ieſt at the reading of Scriptures, and liue as if there were neither Heauen nor Hell, God nor Deuill, nor any day of Iudgement!</p>
+               <p n="3">
+                  <hi>III.</hi> How can I begge heartily to doe Gods Will here in Earth as it is in Heauen, and yet liue in ignorance of Gods Will, follow<g ref="char:EOLhyphen"/>ing my owne luſts, or other mens wills; de<g ref="char:EOLhyphen"/>ſpiſing the reuealed will of God, neuer do<g ref="char:EOLhyphen"/>ing what God would haue done, as hee re<g ref="char:EOLhyphen"/>quires his will to be done, to wit, willingly, readily, ioyfully, faithfully, ſincerely, &amp; co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>ſtantly: But if I do it, it is too too vnwilling<g ref="char:EOLhyphen"/>ly with deferring off, by halfes, with by-re<g ref="char:EOLhyphen"/>ſpects, and but onely by fits in ſome ſicke<g ref="char:EOLhyphen"/>neſſe,
+<pb n="12" facs="tcp:191583:9"/> or other croſſe.</p>
+               <p n="4">
+                  <hi>IV.</hi> How can I euery day ſay, Giue me this day my dayly bread, to wit, that which is mine, honeſtly and iuſtly come by; and yet liue either idly or diſtruſtfully in exceſſiue care, or fraudulently, getting maintenance by coozonage and deceit, and riches by op<g ref="char:EOLhyphen"/>preſſion, vſury and extortion, by ſhifting, by gaming, yea by ſwearing, forſwearing, rob<g ref="char:EOLhyphen"/>bery and theft, diſtruſting continually Gods prouidence, in the vſe of lawfull meanes, as fearing loſſe thereby?</p>
+               <p n="5">
+                  <hi>V.</hi> How can I deſire with ſorrow, in ſight of ſinne, the pardon of ſinne, euen as I forgiue others treſpaſſing againſt me, and yet wal<g ref="char:EOLhyphen"/>low in ſinne, as the Swine in mire, in drun<g ref="char:EOLhyphen"/>kenneſſe, adultery, gluttony, murther, ſlan<g ref="char:EOLhyphen"/>der, lying, ſwearing, forſwearing, and gree<g ref="char:EOLhyphen"/>dy coueting, alſo in malice, enuie, grudging, ill-will, with deſire of reuenge, and in o<g ref="char:EOLhyphen"/>ther vncharitable courſes?</p>
+               <p n="6">
+                  <hi>VI.</hi> How can I deſire to bee deliuered from euill, and the power of temptations, and yet wilfully runne into ill company, hearken to ill Counſell, follow ill examples, auoiding the ſocietie of ſuch as be well diſpoſed; but eaſily yeelding to Sathans ſuggeſtions, ſtu<g ref="char:EOLhyphen"/>dying to fulfill the deſires and luſts of the
+<pb n="13" facs="tcp:191583:9"/> fleſh, and conforming to euery vaine faſhi<g ref="char:EOLhyphen"/>on, cuſtome and practice of this preſent world?</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>Surely, if euery man would thus aske himſelfe, before he begin to pray, either it would reforme him, or make him moſt inexcuſable at the Barre of Gods Iuſtice, would it not?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Yes, without all peraduenture, if a man withall conſider:</p>
+               <p n="1">
+                  <hi>I.</hi> That Prayer is an immediate preſenting of a mans ſelfe into Gods holy preſence, a Ma<g ref="char:EOLhyphen"/>ieſtie infinite and of great glory, not to be abuſed with idle lip-labour.</p>
+               <p n="2">
+                  <hi>II.</hi> That hee preſumeth to call God Father in Heauen, which cannot bee but by diuine grace, and by the ſpirit of adoption, there<g ref="char:EOLhyphen"/>fore hee being graceleſſe muſt needs herein abuſe God by claming a Sonne-ſhip without the ſpirit of Regeneration.</p>
+               <p n="3">
+                  <hi>III.</hi> That his owne mouth witneſſeth againſt his owne wayes, while hee making requeſt, for that which he vtterly in heart, and yet in life oppoſeth, and ſo prepareth for him<g ref="char:EOLhyphen"/>ſelfe without all excuſe matter of iuſt con<g ref="char:EOLhyphen"/>demnation, except hee vſe the meanes to attaine to that which in words hee ſeemeth
+<pb n="14" facs="tcp:191583:10"/> dayly to requeſt for himſelfe at Gods hands.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>Can you ſhew me how a man may bee moued to a holy life, by meditating vpon his baptiſme?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Yes: <hi>I.</hi> He must know, that by it, he is made a member of Chriſt, the Child of God, and an Inheritor of the Kingdome of Heaven: If he be renued by the holy Ghoſt, reformed in life, and haue the ſtipulation of a good conſcience, as all haue that bee baptiſed with the holy Ghoſt, which is that inward baptiſme.</p>
+               <p n="2">
+                  <hi>II.</hi> That he made a great and ſolemne Co<g ref="char:EOLhyphen"/>uenant then before God and before the Lords people. 1. To forſake the Deuill, the world, and the fleſh, and neuer to be led by them. 2. To fight under Christs Banner againſt all Christs and his ſpiri<g ref="char:EOLhyphen"/>tuall Enemies, continuing Chriſts faith<g ref="char:EOLhyphen"/>full Souldier and Seruant to his liues end.</p>
+               <p n="3">
+                  <hi>III.</hi> That this Couenant thus made, ſo ſo<g ref="char:EOLhyphen"/>lemnely, ſo ſealed with Christs pretious blood, the performance of it will be aſſu<g ref="char:EOLhyphen"/>redly required at his hands one day.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>How may a man ſtirre vp his ſoule to the thought of heauenly things, and to a<g ref="char:EOLunhyphen"/>mendment
+<pb n="15" facs="tcp:191583:10"/> of life from the Lords Sup<g ref="char:EOLhyphen"/>per.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>By conſidering what the whole action ſet<g ref="char:EOLhyphen"/>teth forth vnto him,</p>
+               <p n="1">
+                  <hi>I.</hi> A liuely repreſentation vnto our eyes, in the ſignes of the death and paſſion of our Lord and Sauiour Ieſus Chriſt, the bleſſed pro<g ref="char:EOLhyphen"/>pitiation and ſacrifice for our ſinnes.</p>
+               <p n="2">
+                  <hi>II.</hi> Gods infinite mercie in giuing his ſonne, and Chriſts vnſpeakeable loue in being willing to die for vs miſerable ſinners.</p>
+               <p n="3">
+                  <hi>III.</hi> Hereupon to iudge of the deſperate, and vtterly forlorne eſtate of all mankinde, with loſſe of Gods fauour, and the hope of heauen, being accurſed for euer and dam<g ref="char:EOLhyphen"/>ned in Hell, if this had not beene a reme<g ref="char:EOLhyphen"/>die beyond merit of all men and Angels, and the worth of ten thouſand Worlds.</p>
+               <p>And that therefore wee owe to God for this ſo vnſpeakable a benefit our bodies, our ſoules, our goods, our liues, yea all and euery thing, whatſoeuer we be, to his glory and praiſe.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>Surely, mee thinkes, that theſe things ſhould preſſe the moſt rebellious heart that may be, to haue remorſe for ſinne, and to leaue off all his impious courſes, and to ſet himſelfe carefully to the holy ſeruice of his Maker and Redeemer: But
+<pb n="16" facs="tcp:191583:11"/> yet I finde by experience euery where, that is not ſo: What thinke you may be the cauſe, that moſt, for all this, liue ſo ſe<g ref="char:EOLhyphen"/>curely, without any feare of Hell, and are ſo vainely confident of their enioying of Heauen, and yet no better prepared for it?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>The maine reaſon is the ignorance of their ſpirituall eſtate through the darkneſſe that is in them, and inbred corruption dimming the eye-ſight of the Soule, that they cannot ſee what they are, nor whither they be go<g ref="char:EOLhyphen"/>ing.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>In how many things doe this ignorance of themſelues appeare?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Principally in two things.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>Which is the firſt?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>That they cannot be perſwaded that they bee ſo bad, as they indeed are. This con<g ref="char:EOLhyphen"/>ceit we may ſee in <hi>Hazael,</hi> 2. <hi>Kings</hi> 8. 13. who would no more beleeue what the Pro<g ref="char:EOLhyphen"/>phet ſpake of his cruell nature, then hee could beleeue himſelfe of a man to be tur<g ref="char:EOLhyphen"/>ned into a dog: <hi>The proud Phariſee</hi> denied himſelfe to bee an extortioner or vniuſt, <hi>Luke</hi> 18. 11. And yet he was full of Ra<g ref="char:EOLhyphen"/>uin, <hi>Luke,</hi> 11. 39. The Prieſts in <hi>Mal.</hi> 1. 6. 7. would not be held deſpiſers and pollu<g ref="char:EOLhyphen"/>ters of Gods Name, nor the <hi>Iewes</hi> guilty
+<pb n="17" facs="tcp:191583:11"/> of blood, <hi>Ier.</hi> 2. 34. 35. nor the <hi>wicked</hi> at the laſt day to haue beene vnmercifull, but will out-face Chriſt with a flat deniall, <hi>Mat.</hi> 25. yea <hi>Peter</hi> was tainted with this conceitedneſſe for by no words of Chriſt, would he beleeue himſelfe to be ſuch a Co<g ref="char:EOLhyphen"/>ward, as to bee brought to deny Chriſt, <hi>Matth.</hi> 26. and yet he did, the malitious, will not be malitious, nor the proud, proud, nor the couetous, nor the vaine glorious ſo, nor ſo.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>How commeth this conceite to bee ſo ſtrong in them?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Through ignorance of their owne corrup<g ref="char:EOLhyphen"/>ruptions; the deceitfulneſſe of their owne hearts, and careleſneſſe to try and ſearch out their waies, to know themſelues.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>Which is the other thing in which the ignorance of themſelues appeareth?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>In being conceited that they are farre bet<g ref="char:EOLhyphen"/>ter then indeed they be. The <hi>Iewes</hi> guilty of blood, ſaid, we are innocent, <hi>Ier.</hi> 2. 35. The <hi>blinde guides, Matth.</hi> 13. will boaſt that they ſee, <hi>Ioh.</hi> 9. 41. <hi>Rom.</hi> 2. 17. 24. They that are nothing, yet will thinke themſelues ſomething, <hi>Gal.</hi> 6. 3. <hi>Zidkias</hi> will ſuppoſe himſelfe to haue the Spirit of of God, 1. <hi>Kings</hi> 22. when it was a lying
+<pb n="18" facs="tcp:191583:12"/> ſpirit of Sathan. The <hi>Rich young man Matth.</hi> 19. 20. held himſelfe perfect and wanting nothing, ſuch a conceited foole was the <hi>Laodicean Angell, Reu.</hi> 3. yea there is a generation pure in their owne eyes, and yet are not clenſed from their fil<g ref="char:EOLhyphen"/>thineſſe, <hi>Pro.</hi> 30. 12.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>What maketh them to be then conceited of themſelues?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>I.</hi> A flattering humour in them, apt to ſoothe themſelues in their owne conceit, <hi>Pſa.</hi> 6. 2. And ſo to bleſſe themſelues a<g ref="char:EOLhyphen"/>gainſt all dangers, <hi>Deut.</hi> 29. 18, 19. <hi>Amos</hi> 9. 10. <hi>Eſa.</hi> 28. 15. <hi>Ier.</hi> 5. 12, 13. <hi>Zeph.</hi> 1. 12. <hi>Pſal.</hi> 10. 6.</p>
+               <p n="2">
+                  <hi>II.</hi> Gods paſſing them ouer with ſilence, and not afflicting nor puniſhing them: where<g ref="char:EOLhyphen"/>vpon they thinke God to be like vnto them<g ref="char:EOLhyphen"/>ſelues, to allow of their courſes, <hi>Pſal.</hi> 50. 21. Elſe not to ſee, or not to regard their wayes, or ſeeing them, yet that hee then forgiue them; ſo doe they put Gods Iudge<g ref="char:EOLhyphen"/>ments farre away out of their ſight. <hi>Pſal.</hi> 10. 5, 11, 13.</p>
+               <p n="3">
+                  <hi>III.</hi> By comparing themſelues, firſt with their owne ſelues, looking onely vpon that which they like, and that which they thinke others will like in them, as the Phariſe,
+<pb n="19" facs="tcp:191583:12"/> who looked vpon his faſting, praying, ty<g ref="char:EOLhyphen"/>thing, <note place="margin">
+                     <hi>Luke</hi> 18.</note> and what euill he had not done, but not what euill he did. Secondly, By com<g ref="char:EOLhyphen"/>paring themſelues with other like them<g ref="char:EOLhyphen"/>ſelues; doing what they doe, the Phariſes ſaid, doe any of the Phariſes and Elders <note place="margin">
+                     <hi>Ioh.</hi> 7. 45. 48</note> belieue on him; ſo the falſe Apoſtles did, 2. <hi>Cor.</hi> 10. 12. Thirdly, By comparing themſelues with ſuch as are in their con<g ref="char:EOLhyphen"/>ceit worſe then themſelues; Thus the Pha<g ref="char:EOLhyphen"/>riſee preferred himſelfe before the poore Publican, <hi>Luke</hi> 18. And the Elder ſonne before his prodigall brother, <hi>Luke</hi> 16. 29. Not then diſcerning his contempt to his Father, and his vnnaturalneſſe to his Bro<g ref="char:EOLhyphen"/>ther. Fourthly, By comparing themſelues with the Godly, not in beholding their ver<g ref="char:EOLhyphen"/>tues, but their falls; from which if they can finde themſelues cleere outwardly, then they lift vp their crests, and crow alowd in their owne praiſes.</p>
+               <p n="4">
+                  <hi>IV.</hi> By doing ſometimes ſome things which procure them ſome praiſes with the Godly, as <hi>Iehu</hi> did, who had <hi>Ionadab,</hi> with him in his zealous proſecution of Gods Com<g ref="char:EOLhyphen"/>mand, againſt the houſe of <hi>Ahab,</hi> and <hi>Ba<g ref="char:EOLhyphen"/>als</hi> Prieſts.</p>
+               <p n="5">
+                  <hi>V.</hi> By hauing ſome forme of Godlineſſe,
+<pb n="20" facs="tcp:191583:13"/> though they be without the power thereof; 2. <hi>Tim.</hi> 3. 5. By ſaying ſome prayers, by comming to Gods Houſe, they thinke the euils done is acquitted thereby, <hi>Ier.</hi> 7. 10. and they for comming to heare God: Word, to be accepted of Chriſt, <hi>Luke</hi> 13. 26.</p>
+               <p n="6">
+                  <hi>VI.</hi> By their outward proſperity and wealth ſometimes, ſo they doe thinke themſelues wiſe, <hi>Prou.</hi> 28. 11. and bleſſe God, becauſe they are rich, though the manner of get<g ref="char:EOLhyphen"/>ting be naught, <hi>Zacha.</hi> 11. 5. and hauing no changes like other men, they grow ſe<g ref="char:EOLhyphen"/>cure without feare of euill, <hi>Pſal.</hi> 10. 6.</p>
+               <p n="7">
+                  <hi>VII.</hi> By their conſcience lying a ſleepe or dead in them, neuer troubling them, which commeth to paſſe either through groſſe ig<g ref="char:EOLhyphen"/>norance, or wilfull careleſneſſe going on in ſin, and ſo grow obſtinate through cuſtome in ſinning: they conclude peace with God, and ſo to be in a happy eſtate, <hi>Deut.</hi> 29. 19. when all this time the ſtrong man keepes houſe in them, <hi>Luke</hi> 11. 21.</p>
+               <p n="8">
+                  <hi>VIII.</hi> Becauſe they liue perhaps very ciuil<g ref="char:EOLhyphen"/>ly and quietly walking in morall honeſty with praiſe of men, abſtayning from out<g ref="char:EOLhyphen"/>ward ſcandalous courſes, whoredome, drunkenneſſe, coozening trickes, and other
+<pb n="21" facs="tcp:191583:13"/> foule euils, which they ſee others to com<g ref="char:EOLhyphen"/>mit, vpon which they conciude (making withall a generall profeſſion of Chri<g ref="char:EOLhyphen"/>ſtianity) that they are indued with hea<g ref="char:EOLhyphen"/>uenly graces of Gods regenerating Spirit, not knowing, or not conſidering, that this may be but the reſtrayning power of God, as in <hi>Abimelech. Gen.</hi> 20. 6. or feare and ſhame with holding, as it did the Enemies of Chriſt, and of his Apoſtles; <hi>Acts</hi> 4. 14. 21. or ſome awe and reſpect vnto ſome man of authoritie and wiſedome, as in <hi>Acts</hi> 5. 34. 38, 39. or onely ſome pollicie to ab<g ref="char:EOLhyphen"/>staine for a time; as in <hi>Abſalon</hi> and in <hi>Haman,</hi> who forbore a ſpace from outward <note place="margin">2 <hi>Sam.</hi> 13 22</note> violence, <hi>Eſter</hi> 5. 10. or it may be a well tempered nature, guided by worldly wiſe<g ref="char:EOLhyphen"/>dome, and not by ſauing grace.</p>
+               <p n="9">
+                  <hi>IX.</hi> Becauſe they can and doe ſometimes commend good things in thoſe that are worthy praiſe, doe allow of them and deſire their company, as <hi>Iehu</hi> did <hi>Ionadabs, Adoniah Ionathans,</hi> 1. <hi>Kings</hi> 1. 41. <hi>Da<g ref="char:EOLhyphen"/>rius Daniels</hi> good and liberty. <hi>Dan.</hi> 6. or for that they can <hi>ſpeake againſt the euill deeds of others,</hi> iuſtly to be condemned, as did the Scribes and Phariſes <hi>Mat.</hi> 23. 29, 30, 34. vpon theſe things they con<g ref="char:EOLhyphen"/>clude,
+<pb n="22" facs="tcp:191583:14"/> that they loue the Godly, and hate the wicked, and ſo thinke themſelues to be in a good caſe, when yet we ſee, how the wicked may doe as much.</p>
+               <p n="10">
+                  <hi>X.</hi> When ſome afflictions befall them, then if they can ſay that theſe are croſſes which God ſends them for tryalls, or for their ſinnes, and can ſay with ſome light ſigh, God haue mercy on vs, and can ſay, I pray God we may make a good vſe there<g ref="char:EOLhyphen"/>of, they conclude that they are penitent, that they haue made a good confeſſion, and that they are humble, and are very good Chriſtians, although they remaine altoge<g ref="char:EOLhyphen"/>ther the ſame perſons they were before. Theſe and many other ſuch like reaſons doe make them to thinke ſo well of them<g ref="char:EOLhyphen"/>ſelues.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>But why doe not ſuch labour to finde out their deceits, and learne better to know themſelues?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>The Reaſons may be theſe:</p>
+               <p n="1">
+                  <hi>I.</hi> Their not giuing Credit to their Teachers inſtructions, concerning theſe things, and the need of trying themſelues.</p>
+               <p n="2">
+                  <hi>II.</hi> Their not diſcerning wherein other either are, or can be in better caſe before God, then they themſelues: for they perceiue not
+<pb n="23" facs="tcp:191583:14"/> the inward power of Religion, and liuely effectualneſſe of grace, they being ſenſuall hauing not the holy Spirit, 1. <hi>Cor.</hi> 2. 9. 10, 11, 14. <hi>Iude</hi> 9.</p>
+               <p n="3">
+                  <hi>III.</hi> Their ignorance of the true meanes to finde out themſelues, and careleſneſſe to know them; thinking the labour but a needleſſe curioſity.</p>
+               <p n="4">
+                  <hi>IV.</hi> Their being buſied about the World, fol<g ref="char:EOLhyphen"/>lowing their profits, or pleaſures, or hun<g ref="char:EOLhyphen"/>ting after honours, fulfilling the deſires of the fleſh and the minde, as the Apoſtle ſpeaketh, wherewith they are ſo taken vp, as they cannot poſſible attend to theſe things of an higher Nature, and deeper ſtraine;</p>
+               <p n="5">
+                  <hi>V.</hi> Their preſumptuous conceit of mercy, and putting vp all on Chriſts ſcore, without a<g ref="char:EOLhyphen"/>ny more adoe, till they come to their ſicke bed, and to bid farewell for euer to the World.</p>
+               <p n="6">
+                  <hi>VI.</hi> Their liberty which in many things they take to themſelues agreable to their cor<g ref="char:EOLhyphen"/>rupt nature, to the faſhions and cuſtomes of the World according to the preſent times (which they inwardly effecting, neither can, nor will let goe) ſuffereth them not to come to a more narrow ſearch of their
+<pb n="24" facs="tcp:191583:15"/> wayes; nor to a more ſtrict examination of their courſes.</p>
+               <p n="7">
+                  <hi>VII.</hi> The liberty which they ſee moſt doe take: ſuch as be of the wiſer ſort (ſo re<g ref="char:EOLhyphen"/>puted in the world) learned men, great perſons in Church and common wealth; whom they ſet before them as patterns and doe deſire to follow.</p>
+               <p n="8">
+                  <hi>VIII.</hi> And laſtly, their Iudgement indif<g ref="char:EOLhyphen"/>ferent in Religions; this or that; they holding it fit for priuate perſons to profeſſe the Religion of the State, be it what it will be without diſpute, whether right or wrong of God or man. Theſe if men would exa<g ref="char:EOLhyphen"/>mine themſelues throughly ſhall be found the reaſons, why men make no ſtraiter ſteps in their profeſſion of Religion.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>Verily it's very likely, but ſeeing too many make an indifferency of Religion. Let mee queſtion you further in a few things; Tell me whether there bee any other Religion, then the true Religion?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>True Religion, is the onely Religion and is but only one; &amp; all other are ſuperſtitions and Idolatry, and no Religion indeed, but humane or diabolicall inuentions, drawing men from the true God and worſhip of his Name.</p>
+            </sp>
+            <sp>
+               <pb n="25" facs="tcp:191583:15"/>
+               <speaker>Q.</speaker>
+               <p>What is then true Religion?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>True Religion and vndefiled before God the Father, is the true worſhip and right ſeruing of him, according to his owne Will in Spirit and in Truth.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>Seeing falſe religions will pretend much, what are the certaine markes of true Re<g ref="char:EOLhyphen"/>ligion, differing it from all theſe falſe re<g ref="char:EOLhyphen"/>ligions?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>I.</hi> It teacheth and directeth to onely one, and that the true and euer liuing God: The Trinity in Vnity, and the Vnity in Tri<g ref="char:EOLhyphen"/>nity.</p>
+               <p n="2">
+                  <hi>II</hi> It teacheth and directeth to a true and right worſhipping of the ſame God, in Spi<g ref="char:EOLhyphen"/>rit and Truth.</p>
+               <p n="3">
+                  <hi>III.</hi> It teacheth and directeth to one onely true Rule, euen his owne Will, made knowne hy his owne Word, how, and accor<g ref="char:EOLhyphen"/>ding to which, this his worſhip is to be done and none otherwiſe.</p>
+               <p n="4">
+                  <hi>IV.</hi> It teacheth and directeth man to the right knowledge of himſelfe, to know that he was perfect by Creation; but by the fall is wholly corrupted, and ſeperated from Gods fauour, till reconciliation be made.</p>
+               <p n="5">
+                  <hi>V.</hi> It teacheth and directeth to one onely moſt ſure and certaine meanes of mans re<g ref="char:EOLhyphen"/>couery
+<pb n="26" facs="tcp:191583:16"/> into Gods aſſured loue againe, euen by Ieſus Chriſt his ſacrifice, mediation and interceſſion making an attonement and purchaſing for vs an eternall inheritance.</p>
+               <p n="6">
+                  <hi>VI.</hi> It teacheth and directeth vs how to bee thankefull for ſo great mercies, both for matter, manner, and end, thereof in well pleaſing obedience to God; in duties of loue and charity to our neighbour, and to keepe our ſelues vnſpotted of the world.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>This indeed is true Religion, but now in your profeſſion, can you difference your ſelfe rightly by ſome one maine point or other, from all ſorts of wicked ones; and from their paths of death and damnati<g ref="char:EOLhyphen"/>on?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Yes I ſuppoſe, if you pleaſe to try me.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>How difference you your ſelfe from the <hi>Atheiſt</hi> and his <hi>Atheiſme?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>By beleeuing a God, and liuing thereafter.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>How from the <hi>Gentiles,</hi> the Heathen I<g ref="char:EOLhyphen"/>dolatours, and their Gentiliſme?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>By beleeuing one God the true God, and worſhipping him without any Idoll or I<g ref="char:EOLhyphen"/>mage.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>How from the meere Naturaliſt, know<g ref="char:EOLhyphen"/>ing God by his workes, and diſcourſe of reaſon onely?</p>
+            </sp>
+            <pb n="27" facs="tcp:191583:16"/>
+            <sp>
+               <speaker>A.</speaker>
+               <p>More cleerely and truely from Gods owne Word by the illumination of his Spi<g ref="char:EOLhyphen"/>rit, guiding my Iudgement therein.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>How from Iewes and their Iudaiſme?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>By beleeuing that their yet expected Meſ<g ref="char:EOLhyphen"/>ſias, is our Lord and Sauiour Ieſus Chriſt, and none other; by whoſe comming the Ceremoniall Law of Moſes is vtterly a<g ref="char:EOLhyphen"/>boliſhed.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>How from Turkes, and their Turciſ<g ref="char:EOLhyphen"/>me?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>By beleeuing God to be the Father beget<g ref="char:EOLhyphen"/>ting, the Sonne begotten, and the holy Ghoſt proceeding; and that their Maho<g ref="char:EOLhyphen"/>met was a wicked Seducer, his law forged, and he a damned falſe Prophet.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>How from all Hereticks in generall?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>By holding euer the truth in loue, and ne<g ref="char:EOLhyphen"/>uer defending any Error obſtinately.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>But ſeeing their hath beene, and are many Hereticks; how doe you difference your ſelfe from euery of them?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>They haue beene innumerable; and this were an endleſſe worke; but if you pleaſe, aske of theſe which now are moſt common<g ref="char:EOLhyphen"/>ly knowne, and which are often mentioned and read of.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>With a good will; How doe you diffe<g ref="char:EOLhyphen"/>rence
+<pb n="28" facs="tcp:191583:17"/> your ſelfe from <hi>Arrians</hi> and Aria<g ref="char:EOLhyphen"/>niſme?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>By acknowledging that Ieſus Chriſt the ſecond perſon in Trinity is both God and man, as God equall with the Father, and the ſame ſubſtance.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>How from <hi>Montaniſts,</hi> and their Mon<g ref="char:EOLhyphen"/>taniſme?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>By holding that the perſons in the God<g ref="char:EOLhyphen"/>head are three, and diſtinct, that the ſe<g ref="char:EOLhyphen"/>cond marriages are lawfull.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>How from <hi>Nouatus</hi> and his followers, the Cathariſts, or Puritans, and Nouati<g ref="char:EOLhyphen"/>ans.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>By granting that the vnfeined penitent, after their falls (though to the denying of Chriſt) are yet vpon their repentance, to be receiued againe into the Church. That we doe not affect to be called pure, or Puri<g ref="char:EOLhyphen"/>tans, neither doe appropriate puritie to our ſelues before others.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>How from the <hi>Donatiſts?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>By holding that the wicked pollute not the Godly in receiuing the Sacrament. That baptiſme is true baptiſme out of their aſ<g ref="char:EOLhyphen"/>ſemblies; That one once baptiſed need not to be baptiſed againe; That the vertue of the Sacrament, dependeth not vpon the
+<pb n="29" facs="tcp:191583:17"/> worthineſſe of the Miniſter.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>How from <hi>Pelagians?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>By holding that mans nature is corrupt by <hi>Adams</hi> fall, That we all are borne in Ori<g ref="char:EOLhyphen"/>ginall ſinne; That we haue not power in and of our ſelues to beleeue, and to will and worke out our owne ſaluation.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>How from <hi>Anabaptiſts?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>By allowing that children of beleeuing parents are to be baptiſed; That children are borne with inbred corruptions, that e<g ref="char:EOLhyphen"/>lection is before all time, that predeſtinati<g ref="char:EOLhyphen"/>on is not of all to life, but of ſome, and theſe of his meere mercie, and not conditionally, if they repent and beleeue. That the elect called and iuſtified ſtand ſo by the grace and power of God, and not vpon their owne will, neither can they fall away totally nor finally; That Magiſtracie is allowed of God, and the Miniſtery is a calling of God, and diſtinctly aſſigned onely to ſome to ex<g ref="char:EOLhyphen"/>ecute the ſame.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>
+                  <hi>How from</hi> Browniſts <hi>and</hi> Separatiſts <hi>and their</hi> Schiſme.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>By keeping the vnitie of the Spirit in the bond of loue with other Churches: diſclai<g ref="char:EOLhyphen"/>ming vtterly popular gouernment, and a ſingularly bold conceit of interpreting holy
+<pb n="30" facs="tcp:191583:18"/> Scriptures differing from the generall iudgement of the Learned and Godly in the Church of Chriſt.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>
+                  <hi>How from</hi> Libertines?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>By reuerently eſteeming of holy Scriptures, making them the Rule of my life, and not mine owne dreames, nor the fantaſie of my owne ſpirit, by which they iudge any thing to be lawfull, and to be done without checke of Conſcience, though the ſame in other mens iudgement bee neuer ſo wicked, and alſo condemned in Scriptures, becauſe ſay they, it is by naturall inclination.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>
+                  <hi>How from the</hi> Familie of Loue?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>By holding propriety of goods lawfull, and not a Communitie, and that I am not one perſon, as I am a Chriſtian, and another as I am a Citizen, outwardly yeelding to any Religion, ſo bee it that ſecretly I keepe mine owne Religion within my ſelfe.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>
+                  <hi>How from</hi> Opinioniſts?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>By auoiding ſingularitie of opinion, comit<g ref="char:EOLhyphen"/>ting humbly my conception of minde euer to the iudgement and common receiued o<g ref="char:EOLhyphen"/>pinion of the Church.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>
+                  <hi>How from all</hi> Sectaries <hi>and</hi> Noueliſts?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>By keeping my ſtanding in the Ancient Catholike veritie.</p>
+            </sp>
+            <sp>
+               <pb n="31" facs="tcp:191583:18"/>
+               <speaker>Q.</speaker>
+               <p>
+                  <hi>How from the</hi> Vbiquitaries?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>By denying, conſubſtantiation and belei<g ref="char:EOLhyphen"/>uing that Ieſus Chriſt according to his hu<g ref="char:EOLhyphen"/>manitie is only in Heauen, there remaining vntill his ſecond comming, though in the meane ſpace, Chriſt as God, is euery where.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>But how from the <hi>Papiſts?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>By giuing to Ieſus Chriſt his full and due glory, communicable to neither men nor Angels.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>Is this then the maine difference be<g ref="char:EOLhyphen"/>tweene vs and them, in their robbing him of his glory?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Yes verily: For if I hold and beleeue Ieſus Christ to be, that which indeed he is, and that I doe not impart his glory to any o<g ref="char:EOLhyphen"/>ther, I can neuer be a <hi>Papiſt.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>In how many things conſiſts this his glory?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Infoure things principally.</p>
+               <p n="1">
+                  <hi>I.</hi> If I doe hold and beleeue, that Ieſus Chriſt is onely and alone the ſpirituall Head of his Church, ſending his holy Spirit to bee onely his generall Vicar, and not any mortall man: for this cuts off the proud blaſphe<g ref="char:EOLhyphen"/>mous <hi>Goliahs</hi> head, the Popes vſurped ſu<g ref="char:EOLhyphen"/>premacie, and all that dependeth there<g ref="char:EOLhyphen"/>upon.</p>
+               <pb n="32" facs="tcp:191583:19"/>
+               <p n="2"> 
+                  <hi>II.</hi> That Ieſus Christ is onely and alone the Law-giuer to our conſciences, and his writ<g ref="char:EOLhyphen"/>ten Word the onely infallible rule of all his worſhip and ſeruice.</p>
+               <p>For this cuts off their traditionall word, all the Popes lawes, and infinite humane in<g ref="char:EOLhyphen"/>ventions, burthening the conſciences of Papiſts.</p>
+               <p n="3">
+                  <hi>III.</hi> That Ieſus Chriſt is the onely and alone Mediator of Interceſſion, as well as of Re<g ref="char:EOLhyphen"/>demption betweene God and vs.</p>
+               <p>For this cuts off their idolatrous praying to the <g ref="char:V">Ʋ</g>irgin <hi>Mary,</hi> Saints and Angels.</p>
+               <p n="4">
+                  <hi>IV.</hi> That Ieſus Chriſt is the onely and alone Sauiour, by the meanes of his paſſion paci<g ref="char:EOLhyphen"/>fying Gods wrath, and purchaſing for vs in Heauen an eternall Inheritance.</p>
+               <p>For this cuts off (not good workes done in thankfulneſſe &amp; in obedience) but the con<g ref="char:EOLhyphen"/>ceit of meriting by them; alſo the damned idoll of the Maſſe, that pretended vnbloo<g ref="char:EOLhyphen"/>dy ſacrifice, all ſatisfactory pennance and puniſhment to God; this alſo quencheth out the fire of purgatorie, and quite marreth the Popes Market.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>How doe you difference your ſelfe from all <hi>will-worſhippers?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>By conſtantly ſeruing God, onely as hee
+<pb n="33" facs="tcp:191583:19"/> preſcribeth and commandeth in his Word, without any additions of men, as part of his worſhip.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>Now becauſe euen in the true Church, all that profeſſe the Goſpell in peaceable dayes, are yet not right, let mee demand ſome Queſtions, touching ſome ſuch: How difference you your ſelfe from <hi>Hy<g ref="char:EOLhyphen"/>pocrites?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>By ſeruing God inwardly, as well as out<g ref="char:EOLhyphen"/>wardly, and performing to my Neighbour all duties of loue, being giuen to good works readily, and that without vaine-glory.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>Now how from a <hi>Newtralist?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>By being conſciably confident of the truth of my Religion; and not go halting betweene Two opinions.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>
+                  <hi>How from</hi> Temporizers?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>By being one and the ſame conſtantly at all times.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>
+                  <hi>How from</hi> Machiauel-like Polititians?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>By hauing my will ſwayed by good reaſon, euer ruled by the power of Religion.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>
+                  <hi>How from</hi> Luke-warme Laodiceans?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>By being a Proteſtant euer in earneſt fer<g ref="char:EOLhyphen"/>uently zealous in my Christians profeſſion, with ſound Iudgement.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>
+                  <hi>How from</hi> Prophane perſons?</p>
+            </sp>
+            <pb n="34" facs="tcp:191583:20"/>
+            <sp>
+               <speaker>A.</speaker>
+               <p>By hauing alwayes an holy estimation of Religion, of Gods Word, Miniſtery, Sacra<g ref="char:EOLhyphen"/>ments, Prayer, and all diuine Ordinances.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>
+                  <hi>How from all</hi> obstinate Impenitents?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>By willingly learning, humbly ſubmitting to, &amp; admitting of wholeſome reproofes, for my reformation wherein ſoeuer I doe a<g ref="char:EOLhyphen"/>miſſe.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>
+                  <hi>How from</hi> preſumptuous ſinners?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>By an awefull feare of God, euen becauſe he is gracious and mercifull.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>
+                  <hi>How from</hi> Hopeleſſe desperates?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>By laying hold fast on the mercies of God in Christ, and beleeuing the promiſes of Saluation made to vs in him.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>
+                  <hi>How from the</hi> carnall Securitans?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>By dayly examining my wayes, by louing and longing for the appearing of Ieſus Chriſt, and by wayting with preparation for death, and the laſt iudgement Day, which the Lord haſten, and end theſe our dayes of ſinning, that in glory we may praiſe him euerlaſtingly. <hi>Amen, Amen.</hi>
+               </p>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:191583:20"/>
+         </div>
+      </body>
+   </text>
+</TEI>
